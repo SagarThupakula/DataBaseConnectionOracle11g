@@ -85,8 +85,8 @@ button:hover {
 
 
 	<center>
-		<br>
-		<h1>WELCOME<br> TO <br> KRY IT Solutions <br>Login Here</h1>
+		<br> <font color="blue">
+		<h1>WELCOME<br> TO <br> JNTUH College of Engineering Jagtial <br>Login Here</h1>
 		<hr>
 		<br>
 		<form action="SAdminLog" method="post">
@@ -106,7 +106,7 @@ button:hover {
 						<td></td>
 						<td><button class="clearfix" type="submit" class="signupbtn">Login</button></td>
 					</tr>
-		
+		</font>
 				</table>
 			</div>
 		</form>
